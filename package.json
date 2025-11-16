@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "private": false,
+  "type": "module",
   "homepage": "https://md-mustafa786.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
