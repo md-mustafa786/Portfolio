@@ -6,7 +6,7 @@
   "homepage": "https://md-mustafa786.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "vite build",
     "preview": "vite preview", 
     "deploy": "npm run build && gh-pages -d dist"
   },
